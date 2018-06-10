@@ -1,4 +1,4 @@
-import java.io.*;
+iiiiiiithatqjjimport java.io.*;
 class Addition
 {
 public static void main(String args[])throws Exception
@@ -8,12 +8,16 @@ BufferedReader br= new BufferedReader( new InputStreamReader(System.in));
 System.out.println("Enter the two numbers to add:");
 a=Integer.parseInt(br.readLine());
 b=Integer.parseInt(br.readLine());
-make some changes
-B
-
-c = a-+b;
+c = a+b;
 System.out.println("\nSum of two numbers:"+ c);
 }
 }
  
+B
+
+A
+A
+A
+B
+B
 
